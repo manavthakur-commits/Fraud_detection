@@ -24,3 +24,7 @@ To run the web application locally, ensure you have Python installed and the nec
 1. **Install dependencies:**
    ```bash
    pip install pandas scikit-learn streamlit joblib
+
+2.**Run the Streamlit App**
+ ```bash
+   streamlit run fraud_detection.py
